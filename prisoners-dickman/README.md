@@ -403,7 +403,9 @@ Subtract the two lines. All the middle terms cancel:
 For $`m<n\le2m`$, we have $`0\le n-m-1<m`$, so $`q_{n-m-1}=1`$. Starting from $`q_m=1`$ and summing,
 
 ```math
-\boxed{q(n,m)=1-\sum_{r=m+1}^{n}\frac{1}{r}=1-(H_n-H_m)}\qquad(m<n\le 2m).
+\boxed{q(n,m)=1-\sum_{r=m+1}^{n}\frac1r
+=1-(H_n-H_m)}
+\qquad (m\lt n\le 2m).
 ```
 
 We have recovered the harmonic formula from **conditioning**, rather than from counting mutually exclusive long cycles. This equivalence is an important consistency check.
