@@ -1,7 +1,7 @@
 
 # Prisoners and Dickman
 
-**An exploratory note in probability and combinatorics** · Draft v1.3 · 25 October 2026
+**An exploratory note in probability and combinatorics** · Version 1.0 · 25 October 2026
 
 > **Abstract.** Stumbled upon this pretty interesting and intriguing strategy problem recently. A puzzle about prisoners searching numbered boxes appears to have almost no chance of success. A cycle-following strategy instead succeeds with probability over 31%, even though it does not improve any individual prisoner's 50% chance. We derive this result from random permutation cycles, then ask what happens when the number of boxes each prisoner may open is reduced. The resulting distinction between expected cycle counts and probabilities of existence leads to an exact recurrence for permutations with bounded cycle lengths. Taking its scaling limit brings us to the Dickman delay differential equation. Throughout, our goal is to understand how each mathematical tool becomes necessary.
 
