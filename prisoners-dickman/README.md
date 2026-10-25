@@ -528,7 +528,7 @@ The mathematical progression is striking:
 5. Conditioning on one tagged cycle gives an exact recurrence that remains valid for every $`n`$ and $`m`$.
 6. Under rescaling, that recurrence becomes the Dickman integral and differential-delay equations.
 
-This is an **expository note on established results**, not a claim of new mathematics. In particular, we have analysed the success probability of the **cycle-following strategy**; we have not established the optimality of this strategy against all adaptive strategies in every generalised version. Related questions include the distribution of the longest cycle and quantitative error estimates for the Dickman limit.
+We have analysed the success probability of the **cycle-following strategy**; we have not established the optimality of this strategy against all adaptive strategies in every generalised version. Related questions include the distribution of the longest cycle and quantitative error estimates for the Dickman limit.
 
 ---
 
